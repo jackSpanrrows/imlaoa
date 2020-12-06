@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-02-17 
 title: Python语言规范之Lambda函数
 tags: Python3,风格指南,Lambda
@@ -41,6 +41,6 @@ summary: Python语言规范之Lambda函数
 ```
 
 
-上一篇 [Python语言规范之嵌套/局部/内部类或函数](https://www.imlaoa.com/blog/py3-language-style9.html)
+上一篇 [Python语言规范之嵌套/局部/内部类或函数](http://www.imlaoa.com/blog/py3-language-style9.html)
 
-下一篇 [Python语言规范之条件表达式](https://www.imlaoa.com/blog/py3-language-style11.html)
+下一篇 [Python语言规范之条件表达式](http://www.imlaoa.com/blog/py3-language-style11.html)

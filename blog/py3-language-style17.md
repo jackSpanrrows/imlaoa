@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-02-24
 title: Python语言规范之函数与方法装饰器
 tags: Python3,风格指南
@@ -52,6 +52,6 @@ class C(object):
 
 装饰器是一种特殊形式的”顶级代码”. 参考后面关于 Main 的话题.
 
-上一篇 [Python语言规范之词法作用域(Lexical Scoping)](https://www.imlaoa.com/blog/py3-language-style16.html)
+上一篇 [Python语言规范之词法作用域(Lexical Scoping)](http://www.imlaoa.com/blog/py3-language-style16.html)
 
-下一篇 [Python语言规范之线程](https://www.imlaoa.com/blog/py3-language-style18.html)
+下一篇 [Python语言规范之线程](http://www.imlaoa.com/blog/py3-language-style18.html)

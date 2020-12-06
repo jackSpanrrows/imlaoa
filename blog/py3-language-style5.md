@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-02-12 
 title: Python语言规范之全局变量
 tags: Python3,风格指南
@@ -45,6 +45,6 @@ summary: Python语言规范之全局变量
 4.如果需要, 全局变量应该仅在模块内部可用, 并通过模块级的公共函数来访问.
 ```
 
-上一篇 [Python语言规范之异常](https://www.imlaoa.com/blog/py3-language-style4.html)
+上一篇 [Python语言规范之异常](http://www.imlaoa.com/blog/py3-language-style4.html)
 
-下一篇 [Python语言规范之嵌套/局部/内部类或函数](https://www.imlaoa.com/blog/py3-language-style6.html)
+下一篇 [Python语言规范之嵌套/局部/内部类或函数](http://www.imlaoa.com/blog/py3-language-style6.html)

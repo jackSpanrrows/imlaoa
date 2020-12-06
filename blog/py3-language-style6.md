@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-02-13 
 title: Python语言规范之嵌套/局部/内部类或函数
 tags: Python3,风格指南
@@ -35,6 +35,6 @@ summary: Python语言规范之嵌套/局部/内部类或函数
 推荐使用.
 ```
 
-上一篇 [Python语言规范之全局变量](https://www.imlaoa.com/blog/py3-language-style5.html)
+上一篇 [Python语言规范之全局变量](http://www.imlaoa.com/blog/py3-language-style5.html)
 
-下一篇 [Python语言规范之列表推导](https://www.imlaoa.com/blog/py3-language-style7.html)
+下一篇 [Python语言规范之列表推导](http://www.imlaoa.com/blog/py3-language-style7.html)

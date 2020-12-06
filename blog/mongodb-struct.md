@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2018-02-12 
 title: Ubuntu下MongoDB的安装和使用
 tags: MongoDB

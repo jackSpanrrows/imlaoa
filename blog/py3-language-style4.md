@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-02-11 
 title: Python语言规范之异常
 tags: Python3,风格指南
@@ -61,6 +61,6 @@ except Error as error:
     pass
 ```
 
-上一篇 [Python语言规范之包](https://www.imlaoa.com/blog/py3-language-style3.html)
+上一篇 [Python语言规范之包](http://www.imlaoa.com/blog/py3-language-style3.html)
 
-下一篇 [Python语言规范之全局变量](https://www.imlaoa.com/blog/py3-language-style5.html)
+下一篇 [Python语言规范之全局变量](http://www.imlaoa.com/blog/py3-language-style5.html)

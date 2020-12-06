@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-02-15 
 title: Python语言规范之默认迭代器和操作符
 tags: Python3,风格指南
@@ -49,6 +49,6 @@ No:   for key in adict.keys(): ...
       for line in afile.readlines(): ...
 ```
 
-上一篇 [Python语言规范之列表推导](https://www.imlaoa.com/blog/py3-language-style7.html)
+上一篇 [Python语言规范之列表推导](http://www.imlaoa.com/blog/py3-language-style7.html)
 
-下一篇 [Python语言规范之生成器](https://www.imlaoa.com/blog/py3-language-style9.html)
+下一篇 [Python语言规范之生成器](http://www.imlaoa.com/blog/py3-language-style9.html)

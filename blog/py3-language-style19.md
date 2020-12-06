@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-02-25
 title: Python语言规范之威力过大的特性
 tags: Python3,风格指南
@@ -26,5 +26,7 @@ summary: Python语言规范之威力过大的特性
 ## 结论
     在你的代码中避免这些特性.
 
-上一篇 [Python语言规范之线程](https://www.imlaoa.com/blog/py3-language-style18.html)
+上一篇 [Python语言规范之线程](http://www.imlaoa.com/blog/py3-language-style18.html)
+
+下一篇 [Python安装模块那点破事](http://www.imlaoa.com/blog/py3-module-install.html)
 

@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 head: http://pingodata.qiniudn.com/jockchou-avatar.jpg
 date: 2017-10-02
 title: 欢迎使用GitBlog

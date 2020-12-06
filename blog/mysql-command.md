@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-01-26 
 title: MySQL常用命令行参数查询
 tags: mysql

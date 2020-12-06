@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-01-28 
 title: Python语言规范之Lint
 tags: Python3,风格指南
@@ -46,4 +46,4 @@ def foo(a, unused_b, unused_c, d=None, e=None):
     return a
 ```
 
-下一篇 [Python语言规范之导入](https://www.imlaoa.com/blog/py3-language-style2.html)
+下一篇 [Python语言规范之导入](http://www.imlaoa.com/blog/py3-language-style2.html)

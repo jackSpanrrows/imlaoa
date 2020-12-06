@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-02-18 
 title: Python语言规范之条件表达式
 tags: Python3,风格指南
@@ -34,6 +34,6 @@ summary: Python语言规范之条件表达式
 适用于单行函数. 在其他情况下，推荐使用完整的if语句.
 ```
 
-上一篇 [Python语言规范之Lambda函数](https://www.imlaoa.com/blog/py3-language-style10.html)
+上一篇 [Python语言规范之Lambda函数](http://www.imlaoa.com/blog/py3-language-style10.html)
 
-下一篇 [Python语言规范之默认参数值](https://www.imlaoa.com/blog/py3-language-style12.html)
+下一篇 [Python语言规范之默认参数值](http://www.imlaoa.com/blog/py3-language-style12.html)

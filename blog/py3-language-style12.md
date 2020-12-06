@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-02-19 
 title: Python语言规范之默认参数值
 tags: Python3,风格指南
@@ -56,6 +56,6 @@ No:  def foo(a, b=FLAGS.my_thing):  # sys.argv has not yet been parsed...
 ```
 
 
-上一篇 [Python语言规范之条件表达式](https://www.imlaoa.com/blog/py3-language-style11.html)
+上一篇 [Python语言规范之条件表达式](http://www.imlaoa.com/blog/py3-language-style11.html)
 
-下一篇 [Python语言规范之属性(properties)](https://www.imlaoa.com/blog/py3-language-style13.html)
+下一篇 [Python语言规范之属性(properties)](http://www.imlaoa.com/blog/py3-language-style13.html)

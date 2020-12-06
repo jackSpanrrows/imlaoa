@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-02-20 
 title:  Python语言规范之属性(properties)
 tags: Python3,风格指南,属性
@@ -82,6 +82,6 @@ Yes: import math
 ```
 
 
-上一篇 [Python语言规范之默认参数值](https://www.imlaoa.com/blog/py3-language-style12.html)
+上一篇 [Python语言规范之默认参数值](http://www.imlaoa.com/blog/py3-language-style12.html)
 
-下一篇 [Python语言规范之True/False的求值](https://www.imlaoa.com/blog/py3-language-style14.html)
+下一篇 [Python语言规范之True/False的求值](http://www.imlaoa.com/blog/py3-language-style14.html)

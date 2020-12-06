@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-02-16
 title: Python语言规范之生成器
 tags: Python3,风格指南,生成器
@@ -36,6 +36,6 @@ summary: Python语言规范之生成器
 鼓励使用.注意在生成器函数的文档字符串中使用 "Yields:" 而不是" Returns:".
 ```
 
-上一篇 [Python语言规范之默认迭代器和操作符](https://www.imlaoa.com/blog/py3-language-style8.html)
+上一篇 [Python语言规范之默认迭代器和操作符](http://www.imlaoa.com/blog/py3-language-style8.html)
 
-下一篇 [Python语言规范之Lambda函数](https://www.imlaoa.com/blog/py3-language-style10.html)
+下一篇 [Python语言规范之Lambda函数](http://www.imlaoa.com/blog/py3-language-style10.html)

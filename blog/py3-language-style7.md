@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-02-14 
 title: Python语言规范之列表推导
 tags: Python3,风格指南
@@ -71,6 +71,6 @@ No:
           if y != z)
 ```
 
-上一篇 [Python语言规范之嵌套/局部/内部类或函数](https://www.imlaoa.com/blog/py3-language-style6.html)
+上一篇 [Python语言规范之嵌套/局部/内部类或函数](http://www.imlaoa.com/blog/py3-language-style6.html)
 
-下一篇 [Python语言规范之默认迭代器和操作符](https://www.imlaoa.com/blog/py3-language-style8.html)
+下一篇 [Python语言规范之默认迭代器和操作符](http://www.imlaoa.com/blog/py3-language-style8.html)

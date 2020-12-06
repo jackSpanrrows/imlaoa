@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2017-10-06 
 title: MySQL索引的创建、删除和查看
 tags: MySQL,索引

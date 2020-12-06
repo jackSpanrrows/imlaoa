@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2018-08-06 
 title: [原创][MySQL] specified key was too long max key length is 767bytes
 tags: MySQL specified 767bytes

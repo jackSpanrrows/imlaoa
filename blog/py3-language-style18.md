@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-02-25
 title: Python语言规范之线程
 tags: Python3,风格指南,线程
@@ -21,6 +21,6 @@ summary: Python语言规范之线程
 
 
 
-上一篇 [Python语言规范之函数与方法装饰器](https://www.imlaoa.com/blog/py3-language-style17.html)
+上一篇 [Python语言规范之函数与方法装饰器](http://www.imlaoa.com/blog/py3-language-style17.html)
 
-下一篇 [Python语言规范之威力过大的特性](https://www.imlaoa.com/blog/py3-language-style19.html)
+下一篇 [Python语言规范之威力过大的特性](http://www.imlaoa.com/blog/py3-language-style19.html)

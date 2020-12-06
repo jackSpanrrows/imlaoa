@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-02-22 
 title: Python语言规范之过时的语言特性
 tags: Python3,风格指南
@@ -45,6 +45,6 @@ No:  words = string.split(foo, ':')
 ```
 
 
-上一篇 [Python语言规范之True/False的求值](https://www.imlaoa.com/blog/py3-language-style14.html)
+上一篇 [Python语言规范之True/False的求值](http://www.imlaoa.com/blog/py3-language-style14.html)
 
-下一篇 [Python语言规范之词法作用域(Lexical Scoping)](https://www.imlaoa.com/blog/py3-language-style16.html)
+下一篇 [Python语言规范之词法作用域(Lexical Scoping)](http://www.imlaoa.com/blog/py3-language-style16.html)

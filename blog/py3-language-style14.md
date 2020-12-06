@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-02-21
 title: Python语言规范之True/False的求值
 tags: Python3,风格指南
@@ -72,6 +72,6 @@ No:  if len(users) == 0:
     6. 注意‘0’(字符串)会被当做true.
 
 
-上一篇 [Python语言规范之属性(properties)](https://www.imlaoa.com/blog/py3-language-style13.html)
+上一篇 [Python语言规范之属性(properties)](http://www.imlaoa.com/blog/py3-language-style13.html)
 
-下一篇 [Python语言规范之过时的语言特性](https://www.imlaoa.com/blog/py3-language-style15.html)
+下一篇 [Python语言规范之过时的语言特性](http://www.imlaoa.com/blog/py3-language-style15.html)

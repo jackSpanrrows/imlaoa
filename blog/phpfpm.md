@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2017-10-06 
 title: FastCgi与PHP-fpm之间是个什么样的关系
 tags: php,FastCgi

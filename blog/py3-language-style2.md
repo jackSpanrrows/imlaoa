@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2019-01-29 
 title: Python语言规范之导入
 tags: Python3,风格指南
@@ -47,6 +47,6 @@ echo.EchoFilter(input, output, delay=0.7, atten=4)
 导入时不要使用相对名称. 即使模块在同一个包中, 也要使用完整包名. 这能帮助你避免无意间导入一个包两次.
 
 
-上一篇 [Python语言规范之Lint](https://www.imlaoa.com/blog/py3-language-style1.html)
+上一篇 [Python语言规范之Lint](http://www.imlaoa.com/blog/py3-language-style1.html)
 
-下一篇 [Python语言规范之包](https://www.imlaoa.com/blog/py3-language-style3.html)
+下一篇 [Python语言规范之包](http://www.imlaoa.com/blog/py3-language-style3.html)

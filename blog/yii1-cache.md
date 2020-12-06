@@ -1,5 +1,5 @@
 <!--
-author: Jack.Spanrrows
+author: 老A在Coding
 date: 2018-02-12 
 title: Yii1框架调用缓存使用方法
 tags: Yii Yii1
