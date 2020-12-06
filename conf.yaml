@@ -1,0 +1,41 @@
+#GitBlog配置文件，使用4个空格代替Tab
+---
+url: /
+title: 老A博客
+subtitle: 老A博客
+theme: quest
+enableCache: true
+highlight: On
+mathjax: false
+katex: false
+youyan:
+baiduAnalytics:
+keywords: 老A博客,博客,Jack.AChan,Jack.Spanrrows,jackSpanrrows
+description: >
+    老A博客
+version: 2.5
+author:
+    name: Jack.Spanrrows
+    email: Jack.Spanrrows@gmail.com
+    github: jackSpanrrows
+    weibo: 
+    avatar:
+blog:
+    recentSize: 5
+    pageSize: 6
+    pageBarSize: 5
+    allBlogsForPage: false
+text:
+    title: 简介
+    intro: >
+        老A博客欢迎你!
+        
+        [https://www.imlaoa.com]
+        
+        GitHub:https://github.com/jackSpanrrows
+        [https://github.com/chengshao2014]
+        
+        码云 https://gitee.com/imlaoa/
+        
+        QQ:499837531
+baiduAnalytics: 3a1de4f6b6439fbb3c317afc86a612ed  #百度统计
