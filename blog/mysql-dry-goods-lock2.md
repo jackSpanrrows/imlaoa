@@ -35,4 +35,4 @@ summary: MySQL锁策略
    
  
 上一篇 [[理论干货]MySQL锁粒度](http://www.imlaoa.com/blog/mysql-dry-goods-lock1.html)
-
+下一篇 [[理论干货]MySQL事务浅谈之事务正解](http://www.imlaoa.com/blog/mysql-dry-affairs.html)
