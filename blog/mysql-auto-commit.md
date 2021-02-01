@@ -40,4 +40,5 @@ MySQL 可以通过执行 SET TRANSACTION ISOLATION LEVEL 命令来设置隔离�
    
 ```MySQL``` 也支持 ```LOCK TABLES``` 和 ```UNLOCK TABLES``` 语句，这是在服务器层实现的，和存储引擎无关。它们有自己的用途，但并不能替代事务处理。如果应用需要用到事务，还是应该选择事务型存储引擎。
 
+上一篇 [MySQL事务浅谈4之死锁](http://www.imlaoa.com/blog/mysql-dry-dead-lock.html)
 

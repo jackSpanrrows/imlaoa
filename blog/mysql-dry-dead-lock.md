@@ -58,3 +58,5 @@ summary: MySQL 死锁
    
 
 上一篇 [MySQL事务浅谈3之隔离级别](http://www.imlaoa.com/blog/mysql-dry-isolation.html)
+
+下一篇 [MySQL中的事务](http://www.imlaoa.com/blog/mysql-auto-commit.html)
